@@ -1,2 +1,2 @@
 # rsschool-cv
-My first repository!
+https://your-github-account.github.io/rsschool-cv/cv
