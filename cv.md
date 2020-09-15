@@ -23,7 +23,7 @@ Telephone: 8-888-888-88-88\
 Working independently over 5 projects. 1 of them is senior project.
 
 ## Skills
-    - Programing languages: Pascal/Delphi, Mathlab, HTML, CSS, JavaScript.
+    - Programing languages: Pascal/Delphi, Mathlab, HTML, CSS, JavaScript, Python.
     - Framework: Vue js.
     - Version control system: GitHub.
     - Methodology: agile, scrum.
