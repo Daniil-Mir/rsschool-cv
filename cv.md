@@ -3,12 +3,12 @@ D M
 
 ## Contacts
 Email: 1@gmail.com\
-Telephone: 8-888-888-88-88\
+Telephone: 8-888-888-88-88
 
 ## About me
 ### Purpose and priorities
 **Purpose:** Do good together\
-**Priorities:** Fast, quality, faire price, a little bit every day in all areas of life\
+**Priorities:** Fast, quality, faire price, a little bit every day in all areas of life
 
 ### Strengths
 1. Multitasking.
